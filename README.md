@@ -1,2 +1,2 @@
-The documentation of class HttpUrlConnection can be see at section wiki
+The HttpUrlConnection class documentation can be seen in the wiki section
      
